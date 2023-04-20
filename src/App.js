@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useState } from "react";
 import items from "./data.js";
 import Categories from "./Categories.js";
