@@ -6,7 +6,7 @@ A menu made in React JavaScript.
 
 https://menu-reactjs-lb.netlify.app/
 
-#Inspiration
+# Inspiration
 
 This project was inspired by Birthday Reminder by John Smilga React Course.
 
